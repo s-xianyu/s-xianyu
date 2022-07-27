@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![——](https://s2.loli.net/2022/07/27/xIYCjgldfJQcTuH.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-xianyu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
