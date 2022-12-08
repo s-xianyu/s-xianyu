@@ -9,9 +9,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-xianyu&count_private=true&line_height=24&theme=radical" />
 </a>
 <br/>
+-  ✨ 推荐项目 ✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary)](https://github.com/s-xianyu/xy-diary)
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+- 使用技术
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
