@@ -11,7 +11,9 @@
 <br/>
 -  ✨ 推荐项目 ✨
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary)](https://github.com/s-xianyu/xy-diary)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Sendya's Github Stars">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary)](https://github.com/s-xianyu/xy-diary)
+</a>
 <br/>
 - 使用技术
 <br/>
