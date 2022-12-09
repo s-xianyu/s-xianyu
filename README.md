@@ -9,13 +9,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-xianyu&count_private=true&line_height=24&theme=radical" />
 </a>
 <br/>
+<br/>
 -  ✨ 推荐项目 ✨
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<br/>
+<a href="https://github.com/s-xianyu/xy-diary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/s-xianyu/xianyu-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli" />
 </a>
 
 <!--
