@@ -5,12 +5,16 @@
 - 🌱 年轻无为，卖码为生。
 <br/>
 <br/>
+
+✨ 统计 ✨
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Sendya's Github Stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-xianyu&count_private=true&line_height=24&theme=radical" />
 </a>
 <br/>
 <br/>
--  ✨ 推荐项目 ✨
+
+
+✨ 推荐项目 ✨
 <br/>
 <br/>
 <a href="https://github.com/s-xianyu/xy-diary">
