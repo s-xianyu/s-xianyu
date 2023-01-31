@@ -23,6 +23,17 @@
   </a>
 </div>
 
+<!-- Awesome repo 比较好的仓库-->
+<div align="center">
+  <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+  <a href="https://github.com/sun0225SUN/Student-Data-Vision">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a>
+</div><br>   
+  
+<!-- GitHub 奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+
 ✨ 推荐项目 ✨
 <br/><br/>
 <a href="https://github.com/s-xianyu/xy-diary">
