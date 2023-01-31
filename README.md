@@ -1,10 +1,14 @@
 ### Hi there 👋 
-<img src="https://visitor-badge.glitch.me/badge?page_id=s-xianyu" alt="访客统计" />
 
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
 
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=s-xianyu" alt="访客统计" />
+</div>
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
