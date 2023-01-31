@@ -32,6 +32,9 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 </div><br>
 
+<!-- just img 图片 -->
+<div align="center"><img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
+
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
