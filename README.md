@@ -47,7 +47,14 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>       </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/s-xianyu/s-xianyu/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 <!--
