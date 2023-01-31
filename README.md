@@ -3,7 +3,9 @@
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
-
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+</div>
 
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
