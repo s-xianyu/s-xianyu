@@ -3,7 +3,9 @@
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
-- <!-- dynamic typing effect 动态打字效果 -->
+
+
+<!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;咸鱼祝您今天愉快!&center=true&size=27" />
@@ -13,13 +15,6 @@
 
 ✨ 统计 ✨
 <!-- Awesome repo 比较好的仓库-->
-<div align="center">
-  <a href="https://github.com/s-xianyu">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-  <a href="https://github.com/sun0225SUN/Student-Data-Vision">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a>
-</div><br>  
-
 <div align="center">
   <a href="https://github.com/s-xianyu">
     <img src="https://github-readme-stats.vercel.app/api?username=s-xianyu&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
