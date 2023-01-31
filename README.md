@@ -32,14 +32,11 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 </div><br>
 
-✨ 代码推送统计 ✨
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ✨ 活动图 ✨
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 <!--
