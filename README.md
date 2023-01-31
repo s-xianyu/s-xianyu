@@ -40,6 +40,8 @@
   </tr>
 </table>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
