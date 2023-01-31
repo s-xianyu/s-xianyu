@@ -12,6 +12,9 @@
 </a>
 <br/><br/>
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/s-xianyu/s-xianyu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+
 
 ✨ 推荐项目 ✨
 <br/><br/>
