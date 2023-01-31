@@ -27,15 +27,13 @@
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
-✨ 推荐项目 ✨
-<br/><br/>
-<a href="https://github.com/s-xianyu/xy-diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary" />
-</a>
-<a href="https://github.com/s-xianyu/xianyu-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli" />
-</a>
-<br/><br/>
+<!-- Awesome repo 比较好的仓库-->
+<div align="center">
+  <a href="https://github.com/s-xianyu/xy-diary">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xy-diary&theme=dark&bg_color=121212&hide_border=true" /></a>
+  <a href="https://github.com/s-xianyu/xianyu-cli">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
+</div><br>
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
