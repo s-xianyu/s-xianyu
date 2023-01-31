@@ -4,10 +4,13 @@
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="https://xy.kuvinet.cn/"><img src="https://img.shields.io/badge/Website-咸鱼日记-blue" /></a>&emsp;
-  <a href="https://blog.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-博客-fad434" /></a>&emsp;
+  <a href="https://xy.kuvinet.cn/"><img src="https://img.shields.io/badge/Website-咸鱼日记-fad434" /></a>&emsp;
+  <a href="https://blog.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://note.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-知识库-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
@@ -19,6 +22,9 @@
   </a>
 </h1>
 <br/><br/>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+
 
 ✨ 统计 ✨
 
