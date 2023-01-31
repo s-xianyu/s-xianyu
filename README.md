@@ -3,7 +3,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;咸鱼祝您今天愉快!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=胆小认生，不易相处;年轻无为，卖码为生!;今天也要开开心心鸭！&center=true&size=27" />
   </a>
 </h1>
 <br/><br/>
