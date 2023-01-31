@@ -8,13 +8,13 @@
 ✨ 统计 ✨
 <br/><br/>
 <a href="https://github.com/s-xianyu" title="Sendya's Github Stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-xianyu&count_private=true&line_height=24&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-xianyu&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
 <br/><br/>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/s-xianyu/s-xianyu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
-
+<br/><br/>
 
 ✨ 推荐项目 ✨
 <br/><br/>
