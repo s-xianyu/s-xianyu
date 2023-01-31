@@ -4,7 +4,7 @@
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=s-xianyu" alt="访客统计" />
 </div>
 
 <!-- dynamic typing effect 动态打字效果 -->
