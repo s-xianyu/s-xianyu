@@ -3,6 +3,12 @@
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
+- <!-- dynamic typing effect 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;咸鱼祝您今天愉快!&center=true&size=27" />
+  </a>
+</h1>
 <br/><br/>
 
 ✨ 统计 ✨
@@ -21,13 +27,6 @@
     <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s-xianyu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
 </div>
-
-<!-- dynamic typing effect 动态打字效果 -->
-<h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小孙同学祝您今天愉快!&center=true&size=27" />
-  </a>
-</h1>
 
 ✨ 推荐项目 ✨
 <br/><br/>
