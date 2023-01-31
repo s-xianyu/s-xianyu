@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://blog.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=s-xianyu" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
 </div>
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
