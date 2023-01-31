@@ -1,11 +1,16 @@
 ### Hi there 👋 
 
+<!-- dynamic typing effect 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;咸鱼祝您今天愉快!&center=true&size=27" />
+  </a>
+</h1>
+<br/><br/>
+
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
 - 🌱 年轻无为，卖码为生。
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
@@ -15,13 +20,6 @@
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
 </div>
-<!-- dynamic typing effect 动态打字效果 -->
-<h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;咸鱼祝您今天愉快!&center=true&size=27" />
-  </a>
-</h1>
-<br/><br/>
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 
@@ -44,6 +42,9 @@
   <a href="https://github.com/s-xianyu/xianyu-cli">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 </div><br>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
 ✨ 活动图 ✨
 <!-- GitHub Activity Graph GitHub 活动图 -->
