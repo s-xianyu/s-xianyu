@@ -6,7 +6,9 @@
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
+  <a href="https://xy.kuvinet.cn/"><img src="https://img.shields.io/badge/Website-咸鱼日记-blue" /></a>&emsp;
   <a href="https://blog.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://note.xianyuya.ltd/"><img src="https://img.shields.io/badge/Website-知识库-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
 </div>
