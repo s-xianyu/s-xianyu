@@ -22,9 +22,12 @@
   </a>
 </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/s-xianyu/s-xianyu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
-<br/><br/>
+<!-- dynamic typing effect 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小孙同学祝您今天愉快!&center=true&size=27" />
+  </a>
+</h1>
 
 ✨ 推荐项目 ✨
 <br/><br/>
