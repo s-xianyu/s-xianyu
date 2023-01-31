@@ -21,9 +21,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
 </div>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-
-
 ✨ 统计 ✨
 
 <!-- GitHub 数据统计 -->
