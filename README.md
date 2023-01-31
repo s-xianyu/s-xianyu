@@ -35,6 +35,13 @@
 ✨ 代码推送统计 ✨
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+✨ 活动图 ✨
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
