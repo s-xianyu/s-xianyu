@@ -23,6 +23,10 @@
 
 ✨ 统计 ✨
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s-xianyu&theme=dark&hide_border=true" />
+</div>
+
 <!-- GitHub 数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s-xianyu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -40,9 +44,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 </div><br>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
-
 ✨ 活动图 ✨
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -51,9 +52,6 @@
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>       </td>
   </tr>
 </table>
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s-xianyu&theme=dark&hide_border=true" />
-</div>
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
