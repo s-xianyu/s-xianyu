@@ -35,7 +35,7 @@
 </div> 
   
 <!-- GitHub 奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=s-xianyu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!-- Awesome repo 比较好的仓库-->
 <div align="center">
