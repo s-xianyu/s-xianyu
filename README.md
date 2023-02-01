@@ -2,7 +2,7 @@
 
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://blog.xianyuya.ltd/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的站点;今天也要开开心心鸭！&center=true&size=27" />
   </a>
 </h1>
