@@ -56,7 +56,9 @@
 <br><br><br>
 ✨ 统计图 ✨
 <br>
-<img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
+<div align="center">
+  <img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
+</div>
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
