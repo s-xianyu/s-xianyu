@@ -7,6 +7,8 @@
   </a>
 </h1>
 <br/><br/>
+<br/><br/>
+<img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
 
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
