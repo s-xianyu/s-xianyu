@@ -7,8 +7,6 @@
   </a>
 </h1>
 <br/><br/>
-<br/><br/>
-<img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
 
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
@@ -55,6 +53,10 @@
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-xianyu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>       </td>
   </tr>
 </table>
+<br><br><br>
+✨ 统计图 ✨
+<br>
+<img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
