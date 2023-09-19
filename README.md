@@ -28,6 +28,13 @@
 </div>
 <br/><br/>
 
+✨ 统计图 ✨
+
+<div align="center">
+  <img src='https://count.getloli.com/get/@s-xianyu.github.readme?theme=gelbooru-h'>
+</div>
+<br>
+
 <!-- GitHub 数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s-xianyu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -55,12 +62,6 @@
 </table>
 <br><br><br>
 -->
-
-✨ 统计图 ✨
-<br>
-<div align="center">
-  <img src='https://count.getloli.com/get/@s-xianyu.github.readme?theme=gelbooru-h'>
-</div>
 
 <!--
 **s-xianyu/s-xianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
