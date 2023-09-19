@@ -46,7 +46,7 @@
 </div><br>
 
 ✨ 活动图 ✨
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub 活动图
 <table align="center">
   <tr>
     <td>
@@ -54,6 +54,8 @@
   </tr>
 </table>
 <br><br><br>
+-->
+
 ✨ 统计图 ✨
 <br>
 <div align="center">
