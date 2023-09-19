@@ -45,8 +45,8 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=s-xianyu&repo=xianyu-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 </div><br>
 
-✨ 活动图 ✨
 <!-- GitHub Activity Graph GitHub 活动图
+✨ 活动图 ✨
 <table align="center">
   <tr>
     <td>
