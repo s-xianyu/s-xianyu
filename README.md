@@ -57,7 +57,7 @@
 ✨ 统计图 ✨
 <br>
 <div align="center">
-  <img src='https://count.getloli.com/get/@s-xianyu.github.readme'>
+  <img src='https://count.getloli.com/get/@s-xianyu.github.readme?theme=gelbooru-h'>
 </div>
 
 <!--
