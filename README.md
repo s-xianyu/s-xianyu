@@ -4,8 +4,8 @@
 <h1 align="center">
   <a href="https://blog.xianyuya.ltd/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的站点;今天也要开开心心鸭！&center=true&size=27" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </a>
+   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </h1>
 <br/><br/>
 
