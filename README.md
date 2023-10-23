@@ -6,9 +6,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的站点;今天也要开开心心鸭！&center=true&size=27" />
   </a>
 </h1>
+<h1 align="center">
+   <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+</h1>
 <br/><br/>
- <!-- knock code pictures 敲代码的图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
 - 📙 博客 site [blog.xianyuya.ltd](https://blog.xianyuya.ltd/)
 - 🍄 胆小认生，不易相处，
