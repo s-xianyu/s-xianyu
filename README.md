@@ -36,6 +36,11 @@
   <img src='https://count.getloli.com/get/@s-xianyu.github.readme?theme=gelbooru-h'>
 </div>
 <br>
+✨ 访问量 ✨
+<div align="center">
+  <img src='https://count.getloli.com/get/@:s-xianyu?theme=rule34'>
+</div>
+<br>
 
 <!-- GitHub 数据统计 -->
 <div align="center">
